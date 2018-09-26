@@ -1,3 +1,5 @@
+![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/dicktracy.jpg "DickTracy")
+
 # Lowell Software Syndicate
 
 ## Charter:
