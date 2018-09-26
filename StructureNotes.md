@@ -18,3 +18,10 @@
     * JIRA
     * GitHub
     * 10.10.100.15/internal/
+8. We need to get everyone who will be participating up to speed on using GitHub.
+    * GitHub accounts for all, talk about email messages from GitHub.
+    * Add everyone to LowellObservatory organization, set their permissions.
+    * Learn about structure of repositories.
+    * Learn to checkout, branches, commit, pull request, merge, etc.
+    * Learn to use Issues, including labels, milestones, assignment.
+    * Construct a test/toy project to see how this all works.
