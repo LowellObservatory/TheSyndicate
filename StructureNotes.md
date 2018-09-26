@@ -1,3 +1,5 @@
+![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/dicktracy.jpg "DickTracy")
+
 # Notes on the Structure of the Syndicate
 
 1. We should have an “Organization Account” on GitHub that we all can use. We might need an administrator.
