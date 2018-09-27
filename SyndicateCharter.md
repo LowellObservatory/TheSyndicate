@@ -1,4 +1,4 @@
-![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/dicktracy.jpg "DickTracy")
+![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/dicktracy.jpg "DickTracy")
 
 # Lowell Software Syndicate
 
