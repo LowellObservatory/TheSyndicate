@@ -1,0 +1,9 @@
+- Anaconda Python 3.6
+- Miniconda Python 3.6
+- Libraries:
+  - Stomp
+  - json
+  - numpy
+  - PyQt5
+  - os
+  - time
