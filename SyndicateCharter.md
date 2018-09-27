@@ -7,6 +7,7 @@
 We will discuss requirements, design, implementation, standards, libraries, documentation, unit
 tests, etc. for the ongoing effort to replace and update the software that runs the instruments at
 the DCT, Mars hill science telescopes, and Anderson mesa telescopes.*
+---
 
 ## Tasks:
 * Develop ArcCam library, a Python interface to the ‘Astronomical Research Cameras’ controllers.
