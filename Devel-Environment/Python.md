@@ -7,3 +7,7 @@
   - PyQt5
   - os
   - time
+  - xml.etree.ElementTree
+  - fcntl
+  - sys
+  - mmap
