@@ -21,35 +21,25 @@ the DCT, Mars hill science telescopes, and Anderson mesa telescopes.
 * As new software is developed, the group will act as alpha testers and will provide suggestions and feedback to the rest of the group.
 
 ## Core Members:
-```
-Dyer Lytle (Fearless Leader, LOCUS, INTERFLO, etc.)
-Ryan Hamilton (Python, LOCUS, DCT software)
-Len Bright (Python, ArcCam, Mesa Software)
-Tom Bida (DeVeny software, DCT Software)
-Annika Gustafsson (NIHTS control software)
-Nick Moskowitz (NIHTS control software)
-Michael Mommert (Python, Titan Monitor Software, Robotic software)
-Stephen Levine (DCT Systems)
-```
+- Dyer Lytle (Fearless Leader, LOCUS, INTERFLO, etc.)
+- Ryan Hamilton (Python, LOCUS, DCT software)
+- Len Bright (Python, ArcCam, Mesa Software)
+- Tom Bida (DeVeny software, DCT Software)
+- Annika Gustafsson (NIHTS control software)
+- Nick Moskowitz (NIHTS control software)
+- Michael Mommert (Python, Titan Monitor Software, Robotic software)
+- Stephen Levine (DCT Systems)
 
 ## Scientific Advice:
-```
-Ted Dunham (ARC controller expert, instrument and telescope hardware)
-Mike Collins (New ARC controller honcho)
-```
+- Ted Dunham (ARC controller expert, instrument and telescope hardware)
+- Mike Collins (New ARC controller honcho)
 
 ## Computer and Network Advice
-```
-Charles von Buchwald-Wright
-Scott Do
-```
+- Charles von Buchwald-Wright
+- Scott Do
 
 ## DCT Telescope Software:
-```
-Georgi Mandushev (TCS, DCS, AOS, etc. etc.)
-```
+- Georgi Mandushev (TCS, DCS, AOS, etc. etc.)
 
 ## Meetings:
-```
-Once a week or as needed.
-```
+- Once a week or as needed.
