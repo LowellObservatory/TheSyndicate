@@ -39,8 +39,8 @@ Package Name | Minimum Version | Description
 -------------|-----------------|------------
 numpy | | array manipulation, matrix math, algorithms, etc.
 scipy | | fancier/complicated math extensions to numpy
-matplotlib | | plotting
-astropy | | useful astronomy stuff
+matplotlib | 3.0.0 | plotting
+astropy | 3.0.4 | useful astronomy stuff
 ipython | | a much nicer interactive python shell
 sphinx | | self-documenting code
 sphinx_rtd_theme | | "Read The Docs" theme for sphinx
