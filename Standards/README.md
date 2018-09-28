@@ -7,6 +7,7 @@ implimented as automated checks from a CI system for every pull request.
 
 - PEP-8 conformity, as checked and verified by the agreed-upon pylintrc file.
     - Spaces instead of tabs, in blocks of 4
+    - See also this [sample pylintrc](pylintrc)
 - Codes designed for command-line use shall not just dump everything into
   the ```__main__``` function but rather a distinct ```main()``` function
   or similar that is called from ```__main__```.  This is to ensure that
@@ -25,3 +26,9 @@ Q: Do we want to try to get this in place?  It likely has a low/moderate setup
 
     I'll just add that LSST is using TravisCI for most things, and might
     be a good starting point to see if it'll work for us.
+
+# Documentation Tools to Use
+
+- PyDoc
+- sphinx
+- ?
