@@ -19,13 +19,17 @@ implimented as automated checks from a CI system for every pull request.
 Q: Do we want to try to get this in place?  It likely has a low/moderate setup
    cost in terms of time (1-2 days?) but would automate the checking of
    the codebases for the basics mentioned above.
+   
    Examples:
-       - [CircleCI](https://github.com/marketplace/circleci)
-       - [TravisCI](https://github.com/marketplace/travis-ci)
-       - [Hound](https://github.com/marketplace/hound)
+   
+   - [CircleCI](https://github.com/marketplace/circleci)
+   
+   - [TravisCI](https://github.com/marketplace/travis-ci)
+   
+   - [Hound](https://github.com/marketplace/hound)
 
-    I'll just add that LSST is using TravisCI for most things, and might
-    be a good starting point to see if it'll work for us.
+   I'll just add that LSST is using TravisCI for most things, and might
+   be a good starting point to see if it'll work for us.
 
 # Documentation Tools to Use
 
