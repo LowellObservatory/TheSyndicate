@@ -35,27 +35,26 @@ Q: Additions and subtractions should be vetted and agreed upon by
    The Syndicate before being added to the list; is a pull request
    the easiest way to do this?
 
-- numpy: array manipulation, matrix math, algorithms, etc.
-- scipy: fancier/complicated math extensions to numpy
-- matplotlib: plotting
-- astropy: useful astronomy stuff
-- ipython: a much nicer interactive python shell
-- sphinx:  self-documenting code
-- sphinx_rtd_theme: "Read The Docs" theme for sphinx
-- cython: C extensions for python
-- swig: Way to make python wrappers around ugly C
-- pillow: common image (JPG/PNG/etc.) manipulations
-- paramiko: wrapper for playing nicely with ssh
-- psutil: various PID and process/file system utilities
-- pylint: automated code checks
-- stomp.py: used to talk to the ActiveMQ broker (via the STOMP protocol)
-- xxhash: Fast, non-cryptographic hashing
-- serviceping: quick and pythonic way to get ping information
-  without screwing around with subprocess or running as root
-- pid: PID files and locking to ensure only one code instance runs at a time
-- xmlschema: Library to parse XML into a usable object,
-    - Includes validation against a given XML schema, but only versions
-      >= 0.9.28 (see [here](https://github.com/brunato/xmlschema/issues/62).
+Package Name | Minimum Version | Description
+-------------|-----------------|------------
+numpy | | array manipulation, matrix math, algorithms, etc.
+scipy | | fancier/complicated math extensions to numpy
+matplotlib | | plotting
+astropy | | useful astronomy stuff
+ipython | | a much nicer interactive python shell
+sphinx | | self-documenting code
+sphinx_rtd_theme | | "Read The Docs" theme for sphinx
+cython | | C extensions for python
+swig | | Way to make python wrappers around ugly C
+pillow | | common image (JPG/PNG/etc.) manipulations
+paramiko | | wrapper for playing nicely with ssh
+psutil | | various PID and process/file system utilities
+pylint | | automated code checks
+stomp.py | 4.1.21 | used to talk to the ActiveMQ broker (via the STOMP protocol)
+xxhash | | Fast, non-cryptographic hashing
+serviceping | 18.8.1 | quick and pythonic way to get ping information without screwing around with subprocess or running as root
+pid | | PID files and locking to ensure only one code instance runs at a time
+xmlschema | 0.9.28 | Library to parse XML into a usable object, includes validation against a given XML schema
 
 
 ### Optional Libraries for More Specific Use Cases
