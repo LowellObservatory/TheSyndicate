@@ -30,9 +30,16 @@ Q: Do we want to try to get this in place?  It likely has a low/moderate setup
 
    I'll just add that LSST is using TravisCI for most things, and might
    be a good starting point to see if it'll work for us.
+   
+   Michael Mommert's AstroPy GitHub group is using Travis-CI as well so
+   it seems like it would be the test choice.
 
 # Documentation Tools to Use
 
 - PyDoc
 - sphinx
 - ?
+
+# Code Review Tools
+
+- ReviewNinja
