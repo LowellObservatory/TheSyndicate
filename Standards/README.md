@@ -32,7 +32,7 @@ Q: Do we want to try to get this in place?  It likely has a low/moderate setup
    be a good starting point to see if it'll work for us.
    
    Michael Mommert's AstroPy GitHub group is using Travis-CI as well so
-   it seems like it would be the test choice.
+   it seems like it would be the best choice for us.
 
 # Documentation Tools to Use
 
@@ -42,4 +42,4 @@ Q: Do we want to try to get this in place?  It likely has a low/moderate setup
 
 # Code Review Tools
 
-- ReviewNinja
+- [Review Ninja](https://github.com/reviewninja/review.ninja)
