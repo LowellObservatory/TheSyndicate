@@ -1,7 +1,7 @@
 # The Syndicate
 Files and other information associated with the Lowell Software Syndicate.
 
-![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/syndicate-small.jpg "Logo")
+![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/logo-300-wide.jpg "Logo")
 
 ## Charter
 
