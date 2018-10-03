@@ -34,7 +34,9 @@ information be made immediately available on a web page as it is accumulated dur
 2. Another idea, from Ryan, is to make an "electronic log" for astronomers that would allow them to make notes
 on images as they come in from the instruments.
 
-   Sample images of the current version of the code as of 2018 10 04; basically the top half would be chopped off and it'd just be maybe a clock of current/UTC time and then the data tables and notes section below
+   Right now, you can point the code at some directory and it'll watch for new files every X seconds. If those new files match a pre-set mask (like \*\.fits) then the files are opened with astropy.io.fits and various things are grabbed from the header and put into the table you see.  It also leaves you room for notes to add about that particular file.  At the end of the night, you can write that data table out as a simple CSV file for your records.
+
+   Sample images of the current version of the code as of 2018 10 04; basically the top half would be chopped off and it'd just be maybe a clock of current/UTC time and then the data tables and notes section below.
    
    ![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/Screen%20Shot%202016-02-19%20at%205.38.03%20PM.png "CruiseDirector Notes")
    
