@@ -36,4 +36,7 @@ on images as they come in from the instruments.
 
    Sample images of the current version of the code as of 2018 10 04; basically the top half would be chopped off and it'd just be maybe a clock of current/UTC time and then the data tables and notes section below
    
-    
+   ![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/Screen%20Shot%202016-02-19%20at%205.38.03%20PM.png "CruiseDirector Notes")
+   
+   ![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/Screen%20Shot%202016-02-19%20at%205.38.55%20PM.png "CruiseDirector DataLog")
+   
