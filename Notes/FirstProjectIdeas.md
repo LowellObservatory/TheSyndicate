@@ -33,3 +33,7 @@ information be made immediately available on a web page as it is accumulated dur
 
 2. Another idea, from Ryan, is to make an "electronic log" for astronomers that would allow them to make notes
 on images as they come in from the instruments.
+
+   Sample images of the current version of the code as of 2018 10 04; basically the top half would be chopped off and it'd just be maybe a clock of current/UTC time and then the data tables and notes section below
+   
+    
