@@ -11,6 +11,7 @@ C: If desired, docker images (and the associated Dockerfiles) can be provided
    to quickly jump into the "standard" Lowell software environment for
    testing/verification.  This is already being done for some new codes
    at the DCT [like the DataServants](https://github.com/LowellObservatory/DataServants).
+   See also [https://jumar.lowell.edu/confluence/display/LIG/Implementation+Details](https://jumar.lowell.edu/confluence/display/LIG/Implementation+Details).
 
 ## Built-in Libraries:
 
