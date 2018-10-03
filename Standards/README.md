@@ -13,6 +13,9 @@ implimented as automated checks from a CI system for every pull request.
   or similar that is called from ```__main__```.  This is to ensure that
   pylint (or other linters) can check for unused variables and we always have
   control over global scope variables.
+- If the code is generally useful, it should go into a common/core library
+  (such as [ligmos](https://github.com/LowellObservatory/ligmos)) so it
+  can be imported and used. No copy-and-paste type imports!
 
 ## Continious Integration (CI) Testing
 
