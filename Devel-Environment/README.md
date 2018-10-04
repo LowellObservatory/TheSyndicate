@@ -70,4 +70,4 @@ xmlschema | 0.9.28 | Library to parse XML into a usable object, includes validat
 ### Libraries to load for speech recognition
 
 - speechrecognition: Has hooks into various web based speech recognition engines. Google_Speech works well.
-- pyaudio: Used to get input audio from the microphone.
+- pyaudio: Used to get input audio from the microphone. (used by speechrecognition, above)
