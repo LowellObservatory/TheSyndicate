@@ -1,3 +1,5 @@
+# Basic Workflow
+
 0. Clone the initial repository.
     - In vscode, hit 'F1' or View -> Command Palette
         - Type 'git clone' and hit enter. It'll prompt you for the
@@ -32,6 +34,14 @@
    head on over to github and create a pull request from your new branch.
    If the repository overlords agree that it's good, and it passes whatever
    checks we agree upon, it'll be merged in.
-4. After it's merged in, head back to vscode and pull down the new changes.
-   This will update your local copy of the master branch, and the
-   process can repeat.
+4. After it's merged in, head back to vscode.
+    - At this point, your local repository is still on your branch. You need
+      to switch back to the master branch, and pull down the changes that
+      were just merged in on github.
+        - In the command palette: 'git checkout' and choose the 'master' branch.
+        - Now pull from the github repository, and you'll be all synced up.
+5. Go to 1.
+
+## Open questions
+- Will we delete branches during the merge, or leave it to the creators to
+  tidy up after themselves when they're done?    I just don't know.
