@@ -17,19 +17,23 @@
     - On your first commit, make sure you push the changes to github.
     - It'll notice that the branch isn't on github yet, and ask you
       something like:
-          "The branch 'RyansBranch' has no upstream branch.
-           Would you like to publish this branch?"
+      
+          The branch 'RyansBranch' has no upstream branch.
+          Would you like to publish this branch?"
+          
       The answer is 'OK' to actually do it.
     - Keep making commits, and when you're done (or when you want) push them
       to github.
           - Making the new branch automatically put your local repository
             onto the new branch.  If you ever need to jump between branches,
             the Command Palette is your friend.
-              - NOTE: You can't have any unsaved changes to files and switch
+            
+                NOTE: You can't have any unsaved changes to files and switch
                 branches.  Those changes must be committed, discarded, or
                 stashed before you can go to another branch! This is true
                 for git in general, and some IDEs or git clients will
                 stash stuff automagically for you.
+                
 3. If you're happy with the branch and think there's good stuff in there,
    head on over to github and create a pull request from your new branch.
    If the repository overlords agree that it's good, and it passes whatever
