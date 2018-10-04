@@ -28,11 +28,11 @@
             onto the new branch.  If you ever need to jump between branches,
             the Command Palette is your friend.
             
-                NOTE: You can't have any unsaved changes to files and switch
-                branches.  Those changes must be committed, discarded, or
-                stashed before you can go to another branch! This is true
-                for git in general, and some IDEs or git clients will
-                stash stuff automagically for you.
+            NOTE: You can't have any unsaved changes to files and switch
+            branches.  Those changes must be committed, discarded, or
+            stashed before you can go to another branch! This is true
+            for git in general, and some IDEs or git clients will
+            stash stuff automagically for you.
                 
 3. If you're happy with the branch and think there's good stuff in there,
    head on over to github and create a pull request from your new branch.
