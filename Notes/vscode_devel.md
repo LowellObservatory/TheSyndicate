@@ -28,3 +28,10 @@
                 stashed before you can go to another branch! This is true
                 for git in general, and some IDEs or git clients will
                 stash stuff automagically for you.
+3. If you're happy with the branch and think there's good stuff in there,
+   head on over to github and create a pull request from your new branch.
+   If the repository overlords agree that it's good, and it passes whatever
+   checks we agree upon, it'll be merged in.
+4. After it's merged in, head back to vscode and pull down the new changes.
+   This will update your local copy of the master branch, and the
+   process can repeat.
