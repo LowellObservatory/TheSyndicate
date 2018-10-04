@@ -1,4 +1,4 @@
-![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/dicktracy.jpg "DickTracy")
+![logo](https://github.com/LowellObservatory/TheSyndicate/blob/master/Images/large.jpg)
 
 # Notes on the Structure of the Syndicate
 
