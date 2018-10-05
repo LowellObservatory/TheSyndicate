@@ -21,3 +21,4 @@
 20. Each time you make a new branch of "master" and then clone it down to eclipse,
     you get all the work other team members have done and merged into the master branch.
     There are also ways to pull from the Master branch if you need to.
+21. EGit User Guide: http://wiki.eclipse.org/EGit/User_Guide
