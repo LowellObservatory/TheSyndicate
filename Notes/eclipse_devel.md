@@ -20,3 +20,4 @@
 19. Make a new branch, as in 1., and repeat until project complete.
 20. Each time you make a new branch of "master" and then clone it down to eclipse,
     you get all the work other team members have done and merged into the master branch.
+    There are also ways to pull from the Master branch if you need to.
