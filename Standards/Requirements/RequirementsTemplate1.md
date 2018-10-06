@@ -84,7 +84,8 @@ List user requirements here.
 ### 3.2 System Requirements
 List detailed system requirements here. If your system is large, you may wish to break this into several subsections.
 
-### 3.3 Interface Requirements List interface requirements here; or include screen mockups. If you use mockups, be sure to explain major features or functions with narrative to avoid confusion or omission of desired features.
+### 3.3 Interface Requirements
+List interface requirements here; or include screen mockups. If you use mockups, be sure to explain major features or functions with narrative to avoid confusion or omission of desired features.
 
 ### 4. Appendices
 ---
