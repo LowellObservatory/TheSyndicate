@@ -1,0 +1,3 @@
+[from Johns Hopkins, Writing Good Requirements](https://ep.jhu.edu/about-us/news-and-media/writing-good-requirements-checklists)
+
+[Guidelines for writing requirements with examples, Seimens](https://www.researchgate.net/publication/284173600_Guidelines_for_Good_Requirements_Writing_with_Examples)
