@@ -5,3 +5,5 @@
 [Software Requirements Specification, Wikipedia](https://en.wikipedia.org/wiki/Software_requirements_specification)
 
 [Example requirements document for Gephi, pdf](https://gephi.org/users/gephi_srs_document.pdf)
+
+[Example requirements, Chalmers Amazing Lunch Indicator, pdf] (http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf)
