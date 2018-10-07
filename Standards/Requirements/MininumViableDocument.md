@@ -21,7 +21,6 @@
 7. Non-Functional Requirements
    - eg., The software will be written in Python
    - The software will run on an Apple Macintosh Computer
-   - The software will connect with the ActiveMQ broker
 8. Risks
    - The user interface may be confusing
    - Some of the needed information from the TCS may not be available on the Broker
