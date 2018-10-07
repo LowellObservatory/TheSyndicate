@@ -6,4 +6,4 @@
 
 [Example requirements document for Gephi, pdf](https://gephi.org/users/gephi_srs_document.pdf)
 
-[Example requirements, Chalmers Amazing Lunch Indicator, pdf] (http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf)
+[Example requirements, Chalmers Amazing Lunch Indicator, pdf](http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf)
