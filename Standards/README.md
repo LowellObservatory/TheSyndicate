@@ -45,4 +45,5 @@ Q: Do we want to try to get this in place?  It likely has a low/moderate setup
 
 # Code Review Tools
 
-- [Review Ninja](https://github.com/reviewninja/review.ninja)
+- ~~[Review Ninja](https://github.com/reviewninja/review.ninja)~~
+- [Pull request reviews](https://help.github.com/articles/about-pull-request-reviews/)
