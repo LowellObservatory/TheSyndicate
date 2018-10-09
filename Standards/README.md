@@ -28,6 +28,7 @@ Q: Do we want to try to get this in place?  It likely has a low/moderate setup
    - [CircleCI](https://github.com/marketplace/circleci)
    
    - [TravisCI](https://github.com/marketplace/travis-ci)
+       - NOTE: Ryan installed this in the LowellObservatory group on 2018-10-09 but hasn't really set up anything yet
    
    - [Hound](https://github.com/marketplace/hound)
 
