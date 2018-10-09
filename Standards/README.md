@@ -29,6 +29,7 @@ Q: Do we want to try to get this in place?  It likely has a low/moderate setup
    
    - [TravisCI](https://github.com/marketplace/travis-ci)
        - NOTE: Ryan installed this in the LowellObservatory group on 2018-10-09 but hasn't really set up anything yet
+       - See also: [Using conda with Travis](https://conda.io/docs/user-guide/tasks/use-conda-with-travis-ci.html)
    
    - [Hound](https://github.com/marketplace/hound)
 
