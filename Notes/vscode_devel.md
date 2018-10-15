@@ -4,7 +4,7 @@
     - In vscode, hit 'F1' or View -> Command Palette
         - Type 'git clone' and hit enter. It'll prompt you for the
           remote repository URL, so copy and paste in a github URL
-          (e.g. https://github.com/LowellObservatory/ArcCon) and hit enter.
+          (e.g. https://github.com/LowellObservatory/ArcLib) and hit enter.
           It'll then prompt you for a local place on your computer where you
           want the repository to go; it will be a subdirectory of whatever
           directory you choose, with the name the same as the repository.
